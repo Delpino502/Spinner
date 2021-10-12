@@ -54,8 +54,11 @@ The following items need to be printed:
 
 Start by uploading the code provided to the arduino. Assemble the hardware using the wiring diagram provided and test everything before mounting to the bottom. Install the heat set nuts into the bottom. Once the hardware has been tested mount the breadboard and arduino the bottom, and the motor and button to the top. The motor should fit snugly in the center hole on the top and I secured it to the top with some hot glue. In order to get my arcade button to fit (it was a bit tall) I have installed one nut on top and one underneath. This raises the button about a centimeter and allows it to fit. Install the battery and test again once assembled before gluing together. Once the spinner is glued shut you will only have access to the inside via the battery door. Install battery door using the M3 screws. To conserve the battery, disconnect it while not in use.
 
+I currently have the battery secured with a small piece of double sided tape on the battery door because I wasn't sure what battery I was going to use when I started this project. I have included the step file for the battery door if you would like to edit it to hold the battery more securely or hold a different battery.
+
 
 I hope you enjoy this project, if you build this please be sure to post your build in the "Makes" section on Thingiverse! There are probably many other ways to achieve this same end with different or smaller hardware, but for this project I challenged myself to create something with items I already had on hand. If you have any questions or suggestions feel free to let me know.
+
 
 
 
