@@ -5,6 +5,7 @@ Spinner game project
 I threw this project together with spare parts I already had for a fun party game. Fill up some shot glasses, place them on the wedges and press the button to spin the wheel! If drinking isn't your think I have also included files for "blank" wedges that you can use for your own purposes!
 
 
+
 Most of the hardware for this project came from an old Arduino Uno kit I had on hand, but you will need some additional items as well. You will need the following non-printable items to complete this project:
 
 
@@ -47,6 +48,7 @@ The following items need to be printed:
 1x battery door
 
 1x spinner
+
 
 
 
